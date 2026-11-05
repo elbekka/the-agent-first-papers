@@ -1,0 +1,14 @@
+.DS_Store
+**/bin/
+**/obj/
+**/TestResults/
+**/.vs/
+**/.idea/
+__pycache__/
+*.pyc
+experiments/*/workspaces/
+experiments/*/config.json
+experiments/*/results/*.stream.jsonl
+experiments/*/results/*.stderr.txt
+experiments/*/results/*.test.txt
+experiments/*/results/*.diff

@@ -1,0 +1,11 @@
+variant,run,total_elapsed_seconds,context_operations_before_first_edit,unique_files_consulted_before_first_edit,unique_directories_consulted_before_first_edit,changed_file_count,external_test_passed
+conventional,1,72.098,15,11,7,5,true
+conventional,2,50.043,13,11,7,6,true
+conventional,3,62.890,14,12,6,6,true
+conventional,4,58.795,12,10,6,5,true
+conventional,5,79.308,13,12,7,6,true
+agent-first,1,63.824,10,7,5,4,true
+agent-first,2,61.278,10,7,4,5,true
+agent-first,3,57.239,11,6,4,4,true
+agent-first,4,52.248,8,6,4,5,true
+agent-first,5,43.849,7,5,4,3,true

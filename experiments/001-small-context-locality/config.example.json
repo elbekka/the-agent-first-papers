@@ -1,0 +1,13 @@
+{
+  "repositories": {
+    "conventional": "variants/conventional",
+    "scope": "variants/agent-first"
+  },
+  "model": "sonnet",
+  "effort": "medium",
+  "max_turns": 60,
+  "repetitions": 5,
+  "timeout_seconds": 300,
+  "validation_command": ["dotnet", "test"],
+  "tools": ["Read", "Glob", "Grep", "Edit", "Write", "Bash"]
+}
